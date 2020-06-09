@@ -1,14 +1,3 @@
-/home/vsonline/workspace/Gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook
-/home/vsonline/workspace/Gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
-/home/vsonline/workspace/Gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
-/home/vsonline/workspace/Gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
-/home/vsonline/workspace/Gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
-/home/vsonline/workspace/Gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
-/home/vsonline/workspace/Gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
-/home/vsonline/workspace/Gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
-/home/vsonline/workspace/Gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
-/home/vsonline/workspace/Gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
-/home/vsonline/workspace/Gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
 /home/vsonline/Gradebook-1/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook
 /home/vsonline/Gradebook-1/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
 /home/vsonline/Gradebook-1/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
