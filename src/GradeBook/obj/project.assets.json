@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vsonline/Gradebook-1/src/GradeBook/GradeBook.csproj",
+      "projectUniqueName": "/home/vsonline/workspace/Gradebook/src/GradeBook/GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "/home/vsonline/Gradebook-1/src/GradeBook/GradeBook.csproj",
+      "projectPath": "/home/vsonline/workspace/Gradebook/src/GradeBook/GradeBook.csproj",
       "packagesPath": "/var/nuget",
-      "outputPath": "/home/vsonline/Gradebook-1/src/GradeBook/obj/",
+      "outputPath": "/home/vsonline/workspace/Gradebook/src/GradeBook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vsonline/.nuget/NuGet/NuGet.Config"

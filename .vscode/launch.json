@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll",
-            "args": [],
+            "args": ["test"],
             "cwd": "${workspaceFolder}/src/GradeBook",
             "console": "internalConsole",
             "stopAtEntry": false
