@@ -7,7 +7,7 @@ namespace GradeBook
         static void Main(string[] args)
         {
             if (args.Length > 0){
-            Console.WriteLine($"Hello World! Panto is Here {args[0]}");
+            Console.WriteLine($"Hello World! Panto is Here today {args[0]}");
             }
 
             else{
