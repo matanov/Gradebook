@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace GradeBook
 {
@@ -7,14 +8,27 @@ namespace GradeBook
     {
         static void Main(string[] args)
         {
-            if (args.Length > 0){
-            Console.WriteLine($"Hello World! Panto is Here today {args[0]}");
-            }
-
-            else{
-                Console.WriteLine("No user input");
-            }
+        var values =  new List<double>() {10.1, 20.2,23.6,16.4};
+        var result =0.0;
+        foreach (var value in values)
+        {
+            result += value;
         }
+        Console.WriteLine(result);
+        
+        
+        if (args.Length > 0)
+        {
+            Console.WriteLine($"Hello World! Panto is Here today {args[0]}");
+        }
+
+        else
+        {
+            Console.WriteLine("No user input");
+        }
+
+        }
+        
         
     }
 }
