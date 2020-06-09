@@ -8,7 +8,7 @@ namespace GradeBook
     {
         static void Main(string[] args)
         {
-        var values =  new List<double>() {10.1, 20.2,23.6,16.4};
+        var values =  new List<double>() {10.1, 20.2,23.6,16.4, 23.6};
         var result =0.0;
         foreach (var value in values)
         {
