@@ -10,15 +10,17 @@ namespace GradeBook
         {
 
         var book = new Book();
+        book.AddGrade(89.1);
 
-
-        var values =  new List<double>() {10.1, 20.2,23.6,16.4, 23.6};
+        var grades =  new List<double>() {12.7, 10.3,6.11,4.1};
+        grades.Add(56.1);
+    
         var result =0.0;
-        foreach (var value in values)
+        foreach (var number in grades)
         {
-            result += value;
+            result += number;
         }
-        result /= values.Count;
+        result /= grades.Count;
         
         Console.WriteLine($"The average is {result:N2}");
         }
