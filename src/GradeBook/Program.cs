@@ -18,19 +18,7 @@ namespace GradeBook
         
         Console.WriteLine($"The average is {result:N2}");
         
-        
-        if (args.Length > 0)
-        {
-            Console.WriteLine($"Hello World! Panto is Here today {args[0]}");
-        }
-
-        else
-        {
-            Console.WriteLine("No user input");
-        }
-
-        }
-        
+                 
         
     }
 }
