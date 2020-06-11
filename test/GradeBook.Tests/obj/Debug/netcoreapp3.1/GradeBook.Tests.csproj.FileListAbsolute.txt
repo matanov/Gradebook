@@ -92,3 +92,6 @@
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.csproj.CopyComplete
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.dll
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.pdb
+/home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook
+/home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.dll
+/home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.pdb
