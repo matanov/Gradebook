@@ -29,8 +29,8 @@
 
             foreach(var grade in grades){
                 result.Average += grade;
-                result.Low = Math.Max(result.Low,grade);
-                result.High = Math.Min(result.High,grade);
+                result.Low = Math.Min(result.Low,grade);
+                result.High = Math.Max(result.High,grade);
             }
             result.Average /= grades.Count;
             
