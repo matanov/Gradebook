@@ -3,13 +3,38 @@ using Xunit;
 
 namespace GradeBook.Tests
 {
+
+    
+
+    
     public class Typetests
     {
+
+
         [Fact]
+         public void StringsBehaveLikeValueTypes()
+        {
+            string name = "Scott";
+            name = MakeUppercase(name);
+            Assert.Equal("SCOTT",name);
+        }
+
+         private string MakeUppercase(string parameter)
+        {
+        return parameter.ToUpper();
+        }
+
+    [Fact]
         public void Test1()
         {
             var x = GetInt();
-            Assert.Equal(x,3);
+            SetInt(ref x);
+            Assert.Equal(x,42);
+        }
+
+        private void SetInt(ref int x)
+        {
+            x = 42;
         }
 
         private int GetInt()
