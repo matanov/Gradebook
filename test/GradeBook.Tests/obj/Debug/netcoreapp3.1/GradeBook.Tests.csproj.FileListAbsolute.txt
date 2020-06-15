@@ -1,3 +1,4 @@
+/home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll
@@ -86,12 +87,11 @@
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.dll
+/home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.pdb
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.csprojAssemblyReference.cache
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.AssemblyInfoInputs.cache
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.AssemblyInfo.cs
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.csproj.CopyComplete
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.dll
 /home/vsonline/workspace/Gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.pdb
-/home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook
-/home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.dll
-/home/vsonline/workspace/Gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.pdb
