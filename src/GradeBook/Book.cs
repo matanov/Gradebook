@@ -13,7 +13,7 @@
         }
             
 
-        public void AddLetterGrade(char letter)
+        public void AddGrade(char letter)
         {
             switch(letter)
             {
@@ -97,7 +97,15 @@
 
         }
         List<double> grades;
-        public string Name;
+        public string Name
+        {
+            get;
+            set;
+        }
+        //private string name;
+
+        const string CATEGORY = "New category";
+
     }
 
  }                                  

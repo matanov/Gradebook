@@ -5,10 +5,36 @@ namespace GradeBook.Tests
 {
 
     
-
+    public delegate string WriteLogDelegate(string logMessage);
     
     public class Typetests
     {
+        int count =0;
+
+        [Fact]
+        public void WriteLogDelegateCanPointToMethod()
+        {
+            WriteLogDelegate log = ReturnMessage;
+            //log = new WriteLogDelegate(ReturnMessage);
+            log += ReturnMessage;
+            log += IncrementCount;
+            
+            var result = log("Hello");
+            //Assert.Equal(result,"Hello");
+            Assert.Equal(3,count);
+        }
+
+        string IncrementCount (string message)
+        {
+            count++;
+            return message.ToLower();
+        }
+
+        string ReturnMessage (string message)
+        {
+            count++;
+            return message;
+        }
 
 
         [Fact]
@@ -25,7 +51,7 @@ namespace GradeBook.Tests
         }
 
     [Fact]
-        public void Test1()
+        public void ValueTypesAlsoPassByValue()
         {
             var x = GetInt();
             SetInt(ref x);
