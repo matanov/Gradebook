@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7IhmidMyQk1aToZ4gKAUPifxsSBo+CsVMefXcYCB/KbqbL+KwTZQAdhdS/sOTFqPrM/oDWQBSNwv4c1N5N5rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Panteley\\Source\\Repos\\matanov\\Gradebook\\src\\GradeBook\\GradeBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Panteley\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
